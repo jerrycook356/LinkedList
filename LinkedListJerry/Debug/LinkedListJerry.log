@@ -1,0 +1,7 @@
+﻿  LinkedListJerry.cpp
+c:\users\jerry\source\repos\linkedlistjerry\linkedlistjerry\linkedlist.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\jerry\source\repos\linkedlistjerry\linkedlistjerry\linkedlist.h(47): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\jerry\source\repos\linkedlistjerry\linkedlistjerry\linkedlist.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jerry\source\repos\linkedlistjerry\linkedlistjerry\linkedlist.cpp(52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jerry\source\repos\linkedlistjerry\linkedlistjerry\linkedlist.cpp(165): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  LinkedListJerry.vcxproj -> C:\Users\jerry\source\repos\LinkedListJerry\Debug\LinkedListJerry.exe
